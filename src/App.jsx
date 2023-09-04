@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div>
-        compteur :
+        compteur : { compteur }
       </div>
     </>
   )
